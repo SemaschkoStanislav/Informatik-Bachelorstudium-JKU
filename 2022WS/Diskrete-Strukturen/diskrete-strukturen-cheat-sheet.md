@@ -2,14 +2,16 @@
 
 * [Documentation...](https://moodle.jku.at/jku/pluginfile.php/7966747/mod_resource/content/8/DiskreteStrukturen_1.pdf)
 
-## Negation von Aussagen
+## Aussagen
+
+### Negation von Aussagen
 
 |          | p  | ¬p | ¬(¬p)|
 |:--------:|:--:|:--:|:----:|
 | 1. Fall  | w  | f  | w    |
 | 2. Fall  | f  | w  | f    |
 
-## UND- und ODER-Aussagen
+### UND- und ODER-Aussagen
 
 | p  	| q  	| p ∧ q | p ∨ q |
 |:-----:|:-----:|:-----:|:-----:|
@@ -18,7 +20,7 @@
 | f  	| w  	| f  	| w  	|
 | f  	| f  	| f  	| f  	|
 
-## Exklusiv-ODER (XOR)
+### Exklusiv-ODER (XOR)
 
 | p  | q  | p ⊻ q |
 |:--:|:--:|:-----:|
@@ -27,7 +29,7 @@
 | f  | w  | f     |
 | f  | f  | f     |
 
-## WENN-DANN und GENAU-DANN, WENN
+### WENN-DANN und GENAU-DANN, WENN
 
 | p  	| q  	| p → q | p ↔ q |
 |:-----:|:-----:|:-----:|:-----:|
