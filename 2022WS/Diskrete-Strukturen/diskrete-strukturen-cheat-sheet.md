@@ -51,4 +51,4 @@
 
 ## Typen Logischer Schlussweisen
 * Syllogismus (Kettenschluss)
-<img src="Syllogismus.png" alt="drawing" width="70%"/>
+<img src="Syllogismus.png" alt="drawing" width="60%"/>
