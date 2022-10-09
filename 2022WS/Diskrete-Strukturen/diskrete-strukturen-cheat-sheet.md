@@ -41,8 +41,8 @@
 * Implikation `p → q ⇔ ¬p ∨ q`
 * Negation der Implikation `¬(p → q) ⇔ (p ∧ ¬q)`
 * XOR `p ⊻ q <=> (p ∨ q) ∧ ¬(p ∧ q)`
-* Duale Formel `(p ∧ ¬q) ∨ (r ∧ ⊥) ⇔ (p ∨ ¬q) ∧ (r ∨ ⊤)`
-* Kontraposition `¬q → ¬p ⇔ p → q`
+* Duale Formel `(p ∧ ¬q) ∨ (r ∧ ⊥) <=> (p ∨ ¬q) ∧ (r ∨ ⊤)`
+* Kontraposition `¬q → ¬p <=> p → q`
   
 ## Aussagenlogische Gesetze
 
