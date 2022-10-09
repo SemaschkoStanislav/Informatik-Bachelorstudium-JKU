@@ -47,7 +47,7 @@
 * Kontraposition `¬q → ¬p ⇔ p → q`
   
 ## Aussagenlogische Gesetze
-<img src="AussagenlogischeGesetze.png" alt="drawing" width="85%"/>
+<img src="AussagenlogischeGesetze.png" alt="drawing" width="80%"/>
 
 ## Typen Logischer Schlussweisen
 * Syllogismus (Kettenschluss)
