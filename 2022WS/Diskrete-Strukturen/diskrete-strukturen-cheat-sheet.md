@@ -6,10 +6,10 @@
 
 #### Negation von Aussagen
 
-|          | p  | ¬p | ¬(¬p)|
-|:--------:|:--:|:--:|:----:|
-| 1. Fall  | w  | f  | w    |
-| 2. Fall  | f  | w  | f    |
+| p  | ¬p | ¬(¬p)|
+|:--:|:--:|:----:|
+| w  | f  | w    |
+| f  | w  | f    |
 
 #### UND- und ODER-Aussagen
 
