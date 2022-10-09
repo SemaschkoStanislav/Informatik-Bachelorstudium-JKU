@@ -49,8 +49,6 @@
 ## Aussagenlogische Gesetze
 <img src="AussagenlogischeGesetze.png" alt="drawing" width="85%"/>
 
-
-
 ## Typen Logischer Schlussweisen
 * Syllogismus (Kettenschluss)
-<img src="Syllogismus.png" alt="drawing" width="80%"/>
+<img src="Syllogismus.png" alt="drawing" width="70%"/>
