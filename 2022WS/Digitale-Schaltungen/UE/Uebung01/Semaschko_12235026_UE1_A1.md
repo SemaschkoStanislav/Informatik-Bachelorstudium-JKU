@@ -1,6 +1,11 @@
-# Übung 1 - zur Vorlesung Digitale Schaltungen
+# Aufgabe 1 - *Wahrheitstabelle*
 
-## Aufgabe 1 - *Wahrheitstabelle*
+#### Gruppenarbeit von: 
+#### Muhammet Batuhan Özdogan (12231298)
+#### Semaschko Stanislav (12235026)
+#### Nico Sami Diaz Cajas (12208474)
+
+---
 
 **a)** ¬(x + y) ⇔ ¬x · ¬y
 
@@ -33,24 +38,3 @@
 | t  	| f  	| t     | f 	                 | f 	          |
 | t  	| t  	| f     | t 	                 | t 	          |
 | t  	| t  	| t     | t 	                 | t 	          |
-
-## Aufgabe 2 - *Boolesche Algebra*
-
-**a)**
-
- ¬(a · b) + b  /De Morgan
-
- ¬a + ¬b + b   /Komplementierung
-
- ¬a + 1        /Extremalgesetz
-
- = 1
-
-**b)**
-
-x · ¬y + ¬x · y     /
-
-**c)**
-
-## Aufgabe 3 - *Kombinatorische Schaltung: Smart Home*
-
